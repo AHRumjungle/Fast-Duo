@@ -8,8 +8,8 @@ A mod for Mindustry that adds fast duos *and other stuff*
 - Faster Duo
 - Fastest Duo
 - Fast Copper
-- Fastter Copper
-- Fasstest Copper
+- Faster Copper
+- Fastest Copper
 - Fast Copper Crafter
 - Faster Copper Crafter
 - Fastest Copper Crafter
