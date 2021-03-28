@@ -6,7 +6,7 @@ health: 300
 size: 1
 reloadTime: 0.5
 range: 240
-inaccuracy: 3
+inaccuracy: 2
 rotatespeed: 12
 maxAmmo: 200
 category: turret
