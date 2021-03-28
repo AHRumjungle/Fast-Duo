@@ -17,14 +17,14 @@ ammoTypes: {
   speed: 10
   damage: 5
   }
-  lead: {
+  fast-copper: {
   type: BasicBulletType
-  speed: 15
-  damage: 3
+  speed: 10
+  damage: 10
   }
 }
 
 requirements: [
   copper/300
-  lead/200
+  fast-copper/20
 ]

@@ -1,0 +1,21 @@
+type: GenericCrafter
+name: Fast Copper Crafter
+description: Turns copper into fast copper
+size: 2
+craftTime: 10
+itemCapacity: 20
+hasItems: true
+consumes: {
+	items:{
+		items: [
+		copper/10
+		]
+	}
+}
+requirements: [
+	copper/100
+]
+outputItem: fast-copper/1
+buildVisibility: shown
+category: crafting
+research: mechanical-drill
