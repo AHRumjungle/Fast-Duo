@@ -14,4 +14,4 @@ A mod for Mindustry that adds fast duos *and other stuff*
 - Faster Copper Crafter
 - Fastest Copper Crafter
 
-This mod is not done, stuff will be added.
+This mod is not done, stuff will be added and changed
