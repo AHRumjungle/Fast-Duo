@@ -1,11 +1,11 @@
 type: ItemTurret
 name: Fast Duo
-description: Like the duo, but has a faster fire rate
+description: Like the duo, but has a faster fire rate.
 targetAir: false
 health: 200
 size: 1
 reloadTime: 1
-range: 80
+range: 120
 inaccuracy: 3
 rotatespeed: 12
 maxAmmo: 100
@@ -16,6 +16,11 @@ ammoTypes: {
   type: BasicBulletType
   speed: 10
   damage: 5
+  }
+  lead: {
+  type: BasicBulletType
+  speed: 15
+  damage: 3
   }
 }
 
