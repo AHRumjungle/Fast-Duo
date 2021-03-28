@@ -1,0 +1,25 @@
+type: ItemTurret
+name: Fast Duo
+description: Like the Faster Duo, but has the fastest fire rate, and the most range.
+targetAir: false
+health: 500
+size: 1
+reloadTime: 0.1
+range: 480
+inaccuracy: 3
+rotatespeed: 12
+maxAmmo: 10000
+category: turret
+
+ammoTypes: {
+  fastest-copper: {
+  type: BasicBulletType
+  speed: 10
+  damage: 25
+  }
+}
+
+requirements: [
+  copper/2000
+  fastest-copper/500
+]
