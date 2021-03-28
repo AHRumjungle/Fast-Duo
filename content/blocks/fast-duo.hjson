@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Fast Duo
-description: Like the duo, but has a faster fire rate.
+description: Like the Duo, but has a faster fire rate.
 targetAir: false
 health: 200
 size: 1
@@ -14,7 +14,7 @@ category: turret
 ammoTypes: {
   copper: {
   type: BasicBulletType
-  speed: 10
+  speed: 5
   damage: 5
   }
   fast-copper: {
@@ -26,5 +26,5 @@ ammoTypes: {
 
 requirements: [
   copper/300
-  fast-copper/20
+  fast-copper/50
 ]
