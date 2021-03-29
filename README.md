@@ -15,5 +15,6 @@ A mod for Mindustry that adds fast duos *and other stuff*
 - Fastest Copper Crafter
 - Fast Copper Conveyor
 - Faster Copper Conveyor
+- Fastest Copper Conveyor
 
 This mod is not done, stuff will be added and changed

@@ -1,0 +1,17 @@
+type: Conveyor
+name: Fastest Copper Conveyor
+description: The faster conveyor
+health: 200
+
+hasItems: true
+itemCapacity: 4
+
+speed: 0.15
+
+requirements: [
+  copper/1
+  fastest-copper/1
+]
+
+category: distribution
+research: faster-copper-conveyor
