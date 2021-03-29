@@ -3,12 +3,12 @@ name: Faster Copper Crafter
 description: Turns fast copper into faster copper
 size: 2
 craftTime: 10
-itemCapacity: 20
+itemCapacity: 10
 hasItems: true
 consumes: {
 	items:{
 		items: [
-		fast-copper/10
+		fast-copper/5
 		]
 	}
 }

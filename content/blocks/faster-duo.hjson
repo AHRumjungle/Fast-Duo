@@ -15,12 +15,12 @@ ammoTypes: {
   fast-copper: {
   type: BasicBulletType
   speed: 10
-  damage: 10
+  damage: 15
   }
   faster-copper: {
   type: BasicBulletType
   speed: 15
-  damage: 10
+  damage: 30
   }
 }
 

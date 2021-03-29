@@ -15,7 +15,7 @@ ammoTypes: {
   fastest-copper: {
   type: BasicBulletType
   speed: 20
-  damage: 25
+  damage: 40
   }
 }
 
