@@ -6,7 +6,7 @@ itemCapacity: 5
 consumes: {
     power: 1
 }
-requierments: [
+requirements: [
     copper/500
     fast-copper/100
 ]
