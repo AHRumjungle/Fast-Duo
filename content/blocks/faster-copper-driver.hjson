@@ -1,0 +1,20 @@
+type: MassDriver
+name: Faster Copper Driver
+description: Better than the fast copper driver
+size: 1
+itemCapacity: 20
+consumes: {
+    power: 5
+}
+requierments: [
+    copper/1000
+    faster-copper/300
+]
+research: fast-copper-driver
+reloadTime: 50
+range: 500
+bulletSpeed: 5
+minDistribute: 1
+category: distribution
+buildVisibility: shown
+
