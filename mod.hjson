@@ -2,7 +2,7 @@ name: "fast-duo"
 displayName: "Fast Duo"
 author: OCRumjungle
 description: "Adds a faster Duo (and other stuff)"
-version: "0.3"
+version: "0.4"
 minGameVersion: "126.1"
 dependencies: [ ]
 hidden: false
