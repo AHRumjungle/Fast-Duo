@@ -1,0 +1,31 @@
+type: ItemTurret
+name: Fastest AA Duo
+description: Like the Faster AA Duo, but is the Fastests
+targetAir: true
+targetGround: false
+health: 200
+size: 1
+reloadTime: 0.1
+range: 500
+inaccuracy: 1
+rotatespeed: 75
+maxAmmo: 300
+category: turret
+
+ammoTypes: {
+  faster-copper: {
+  type: BasicBulletType
+  speed: 20
+  damage: 15
+  }
+  fastest-copper: {
+  type: BasicBulletType
+  speed: 30
+  damage: 20
+  }
+}
+
+requirements: [
+  faster-copper/400
+  fastest-copper/300
+]

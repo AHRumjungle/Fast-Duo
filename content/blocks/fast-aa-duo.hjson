@@ -1,0 +1,31 @@
+type: ItemTurret
+name: Fast AA Duo
+description: Like the Duo, but targets air units.
+targetAir: true
+targetGround: false
+health: 200
+size: 1
+reloadTime: 1
+range: 120
+inaccuracy: 3
+rotatespeed: 25
+maxAmmo: 100
+category: turret
+
+ammoTypes: {
+  copper: {
+  type: BasicBulletType
+  speed: 5
+  damage: 5
+  }
+  fast-copper: {
+  type: BasicBulletType
+  speed: 10
+  damage: 10
+  }
+}
+
+requirements: [
+  copper/400
+  fast-copper/100
+]

@@ -7,6 +7,9 @@ A mod for Mindustry that adds fast duos *and other stuff*
 - Fast Duo
 - Faster Duo
 - Fastest Duo
+- Fast AA Duo
+- Faster AA Duo
+- Fastest AA Duo
 - Fast Copper
 - Faster Copper
 - Fastest Copper
