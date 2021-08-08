@@ -9,7 +9,7 @@ itemCapacity: 4
 speed: 0.11
 
 requirements: [
-  copper/1
+  copper/20
   faster-copper/1
 ]
 

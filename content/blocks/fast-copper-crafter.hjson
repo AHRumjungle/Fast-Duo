@@ -8,7 +8,7 @@ hasItems: true
 consumes: {
 	items:{
 		items: [
-		copper/10
+		copper/5
 		]
 	}
 }
