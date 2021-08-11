@@ -8,13 +8,13 @@ hasItems: true
 consumes: {
 	items:{
 		items: [
-		fast-copper/5
+		fast-copper/3
 		]
 	}
 }
 requirements: [
 	copper/300
-	fast-copper/50
+	fast-copper/100
 ]
 outputItem: faster-copper/1
 buildVisibility: shown

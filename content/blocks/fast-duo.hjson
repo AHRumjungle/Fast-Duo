@@ -26,5 +26,5 @@ ammoTypes: {
 
 requirements: [
   copper/300
-  fast-copper/50
+  fast-copper/100
 ]

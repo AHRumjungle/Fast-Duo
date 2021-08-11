@@ -8,7 +8,7 @@ consumes: {
 }
 requirements: [
     copper/500
-    fast-copper/100
+    fast-copper/200
 ]
 research: mass-driver
 reloadTime: 200
