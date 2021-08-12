@@ -2,7 +2,7 @@
 
 A mod for Mindustry that adds fast duos *and other stuff*
 
-![logo](icon.png)
+![logo](icon2.png)
 
 - Fast Duo
 - Faster Duo
